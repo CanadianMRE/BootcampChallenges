@@ -1,2 +1,4 @@
-# BootcampChallenges
-Folders for all of our bootcamp challanges
+# Bootcamp Challenges
+
+## Description
+Each folder contains a different bootcamp challenge which is to be completed in class
